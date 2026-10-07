@@ -1,6 +1,6 @@
 # Aztecvania
 
-Metroidvania de acción en la América prehispánica: Itztli recorre las tierras del Quinto Sol. Para jugar: https://jfrodriguezva.github.io/Aztecvania/
+Metroidvania de acción en la América prehispánica: Ocelotl recorre las tierras del Quinto Sol. Para jugar: https://jfrodriguezva.github.io/Aztecvania/
 
 Este repositorio contiene únicamente la versión publicada (compilada) del
 juego. El código fuente es privado.
