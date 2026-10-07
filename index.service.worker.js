@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1791389340|4555475';
+const CACHE_VERSION = '1791397510|9602394';
 /** @type {string} */
 const CACHE_PREFIX = 'Aztecvania-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
